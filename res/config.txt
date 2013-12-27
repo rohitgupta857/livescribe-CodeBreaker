@@ -1,0 +1,7 @@
+Sound=true
+GameMode=1
+menuNewGame=New Game
+menuSound=Sound
+menuGameMode=Mode
+menuHelp=Help
+menuAbout=(c)2009 www.quasarsolutions.net

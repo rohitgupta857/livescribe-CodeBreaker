@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<project name="BreakTheCode" basedir="." default="dist">
+
+    <property file="build.properties" />
+
+    <!-- The common Ant build script provides all the implementation -->
+    <import file="${common.builddir}/ant/build-common.xml" />
+
+</project>

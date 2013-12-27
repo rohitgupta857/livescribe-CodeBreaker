@@ -1,0 +1,5 @@
+name=CodeBreaker
+appclassname=net.quasarsolutions.penlet.games.CodeBreaker
+type=APP
+sound=/audio/codebreaker.wav
+icon=
